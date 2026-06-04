@@ -1,0 +1,13 @@
+What is Set?
+
+A Js set is a collection of unique values.
+
+Each vlaue can only occur once in a set
+
+The value can be of any type like primitive values or objects
+
+Create a Set in two ways:
+
+1) new Keyword()
+
+2) add() method

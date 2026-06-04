@@ -1,0 +1,29 @@
+What is Object?
+
+In JavaScript objects are properties and methods.
+
+In javascript objects are key and value pair.
+
+we can create an object in 3 ways.
+
+1) Literal
+2) Using new keyword
+3) Using Constructor
+
+
+Ex: Car is an Object.
+
+car properties:
+
+car.name = "MG"
+car.model ="Hector"
+car.weight = 1000
+car.color = "red"
+
+
+car methods()
+
+car.start()
+car.drive()
+car.break()
+car.stop()

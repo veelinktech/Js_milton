@@ -1,0 +1,41 @@
+What is Variable?
+
+Variable is a container it holds or store the value.
+
+Variable is used to store data so that it can be used,
+changed, or reused later.
+
+Declaring a variable in 4 ways
+
+1) automatic (not recommanded)
+2) var keyword (not recommanded)
+3) let keyword (recommanded)
+4) const keyword (recommanded)
+
+automatic
+a = 10
+
+var keyword:
+
+var a = 10
+
+let keyword 
+
+let a = 10 
+
+const keyword 
+
+const a = 10
+
+identifier rule:
+
+starting with letter or _ or $
+letter (A_Z, a_z)
+numbers are not allowed in starting letter
+
+
+Variable Scope:
+
+Global Scope
+Function Scope
+Block Scope

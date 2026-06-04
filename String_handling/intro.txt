@@ -1,0 +1,4 @@
+What is String?
+
+String is a sequence of characters it represent 
+in single quotes or double quotes

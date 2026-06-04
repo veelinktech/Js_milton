@@ -1,0 +1,4 @@
+What is Date?
+
+In javaScript the date object is used to 
+work with dates and times.

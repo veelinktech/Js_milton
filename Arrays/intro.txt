@@ -1,0 +1,9 @@
+What is an Array?
+An array is used to store multiple values 
+in a single variable
+
+Creating an Array in two ways:
+
+1) Literal
+
+2) Using constructor

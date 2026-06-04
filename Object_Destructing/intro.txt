@@ -1,0 +1,4 @@
+Object Destructuring:
+
+Object destructuring allows to extract values from an object and 
+assign them to variables easily.

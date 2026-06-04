@@ -1,0 +1,14 @@
+What is Operators?
+
+In JavaScript Operatos are symbols used to perform opertaions
+on values and variables.
+
+1) Arithmetic Operator --> +, -, *, /, %, **
+2) Assignment Operator --> =, +=, -=, *=, /=, %=
+3) Comparsion Operator --> ==, ===, !=,!==, >, <, >=,<=
+4) Logical Operator --> && (and), || (or), !(not)
+5) Increment or decrement Operator --> ++, --
+6) Ternary Operator --> ? :
+7) Type Operator --> type of
+8) Bitwise Operator --> &, |, ~, ^
+9) Spread and Rest Operator (...)

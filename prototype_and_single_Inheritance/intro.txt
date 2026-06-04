@@ -1,0 +1,22 @@
+What is inheritance?
+
+Acquiring properties from one class to 
+another class
+
+who is providing the property that class is 
+parent class
+
+who is acquiring the property that class is 
+child class
+
+using extends keyword to make a relationship
+
+Types of inheritance:
+====================
+
+1) Prototype inheritance
+2) Single inheritance
+3) Multilevel inheritance
+4) Hierachical inheritance
+5) Multiple inheritance
+6) Hybrid inheritance

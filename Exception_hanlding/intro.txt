@@ -1,0 +1,9 @@
+What is Exception handling?
+
+Abnormal condition or distrubs the normal flow the program.
+
+How to handle?
+
+try and catch block
+
+try, catch and finally

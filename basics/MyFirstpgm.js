@@ -1,0 +1,7 @@
+console.log("Welcome to JavaScript")
+console.log('Hello World')
+console.log('Playwright')
+console.log(10)
+console.log('100')
+console.log(10+5)
+console.log("10+5")

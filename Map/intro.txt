@@ -1,0 +1,11 @@
+What is Map?
+
+A Map holds key and value pairs where the keys
+con be any data type.
+
+A Map remembers the original insertion order 
+of th keys.
+
+create a Map:
+Passing Array to new Map()
+create a Map and use Map.set()

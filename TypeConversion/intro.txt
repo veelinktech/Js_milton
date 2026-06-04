@@ -1,0 +1,10 @@
+What is Type conversion?
+
+Type conversion means changing one data type into another data type.
+
+2 types:
+
+1) Implicit conversion (automatic)
+2) Explicit conversion (Manual)
+
+

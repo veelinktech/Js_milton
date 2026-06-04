@@ -1,0 +1,24 @@
+What is Function?
+
+It is a block of code it perform some action .
+It execute when it is called.
+
+Sy:
+
+function_keyword  function_name(parameter optional)
+{
+    logics;
+}
+
+Function Name rule:
+
+Statring with letter or _ or $
+Letter (A_Z) (a_z)
+special character $, _
+first letter should not Numbers  
+
+Advantages:
+Maintain the code
+Reusable
+
+

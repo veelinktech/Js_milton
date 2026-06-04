@@ -1,0 +1,9 @@
+Asynchronous JavaScript:
+
+your code can run tasks without blocking the main thread.
+
+3 ways to hadnle async in js.
+
+1) callback function
+2) promises
+3) Async/Await

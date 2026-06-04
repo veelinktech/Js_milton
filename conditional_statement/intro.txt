@@ -1,0 +1,13 @@
+In javascript conditional statement
+
+1) if ladder
+    i) if conditions
+    ii) if and else condition
+    iii) if , elseif and else conditon
+2) switch case
+
+
+if(condition)
+{
+    logics;
+}

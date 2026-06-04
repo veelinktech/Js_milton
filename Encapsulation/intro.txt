@@ -1,0 +1,6 @@
+What is Encapsulation?
+
+Bundle of data(variable) and methods(functions) togetehr and restrict
+direct access to them.
+
+Hide internal data nd allow access only methods

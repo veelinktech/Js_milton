@@ -1,0 +1,41 @@
+Looping:
+
+Repeated task or repated action looping ends with certains condition getting fail
+
+1) for loop
+2) while loop
+3) do while loop
+4) for in 
+5) for of
+
+
+for loop:
+
+for(initialization; condition; increment or decrement)
+{
+
+}
+
+
+while loop;
+
+initialization;
+
+while(condition)
+{
+    logics;
+    increment or decrement;
+}
+
+
+do while loop:
+
+initialization;
+
+do
+{
+    logics;
+    increment or decrement;
+}
+while(condition);
+

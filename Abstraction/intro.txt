@@ -1,0 +1,4 @@
+What is abstraction?
+
+Abstraction means hiding the implementation details and showing 
+functionality to the user.

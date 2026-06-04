@@ -1,0 +1,26 @@
+OOPs(Object oriented programming system)
+
+1) Class and Objects
+2) Inheritace
+3) Polymorphism
+4) Encapsulation
+5) Abstraction
+
+
+What is Class?
+A class is a blueprint(template) used to create
+objects.
+
+class conatins properties(variables) and methods(functions)
+
+class is logical entity
+
+
+Objects:
+========
+
+An Object is an instance of class.
+
+It conatins actual values and can use 
+class methods and variables.
+
